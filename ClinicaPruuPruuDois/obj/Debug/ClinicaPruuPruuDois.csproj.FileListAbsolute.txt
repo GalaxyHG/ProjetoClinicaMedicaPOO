@@ -1,0 +1,155 @@
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.exe.config
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.exe
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.pdb
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.AssemblyReference.cache
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.SuggestedBindingRedirects.cache
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.Form1.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.Properties.Resources.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.GenerateResource.cache
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.CoreCompileInputs.cache
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.exe
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.pdb
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroMedico.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\BouncyCastle.Crypto.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\K4os.Hash.xxHash.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\MySql.Data.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Buffers.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.IO.Pipelines.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Memory.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Numerics.Vectors.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\ZstdSharp.dll
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\BouncyCastle.Crypto.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.pdb
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\K4os.Hash.xxHash.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\MySql.Data.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Buffers.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.IO.Pipelines.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Memory.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Numerics.Vectors.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroPaciente.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.CopyComplete
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroConsulta.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.AssemblyReference.cache
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.SuggestedBindingRedirects.cache
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.Form1.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroConsulta.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroMedico.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroPaciente.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.Properties.Resources.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.GenerateResource.cache
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.CoreCompileInputs.cache
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.exe
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.pdb
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.exe.config
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.exe
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.pdb
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\BouncyCastle.Crypto.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\K4os.Hash.xxHash.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\MySql.Data.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Buffers.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.IO.Pipelines.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Memory.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Numerics.Vectors.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\ZstdSharp.dll
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\BouncyCastle.Crypto.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.pdb
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\K4os.Hash.xxHash.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\MySql.Data.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Buffers.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.IO.Pipelines.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Memory.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Numerics.Vectors.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.CopyComplete
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.exe.config
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.exe
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\ClinicaPruuPruuDois.pdb
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\BouncyCastle.Crypto.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\K4os.Hash.xxHash.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\MySql.Data.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Buffers.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.IO.Pipelines.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Memory.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Numerics.Vectors.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\ZstdSharp.dll
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\BouncyCastle.Crypto.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.pdb
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\Google.Protobuf.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\K4os.Hash.xxHash.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\MySql.Data.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Buffers.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.IO.Pipelines.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Memory.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Numerics.Vectors.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\atualização\ClinicaPruuPruuDois\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.AssemblyReference.cache
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.SuggestedBindingRedirects.cache
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.Form1.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroConsulta.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroMedico.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmCadastroPaciente.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.Properties.Resources.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.GenerateResource.cache
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.CoreCompileInputs.cache
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.csproj.CopyComplete
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.exe
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.pdb
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewConsultas.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewMedicos.resources
+H:\atualização\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewPacientes.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewConsultas.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewMedicos.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewPacientes.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmDeletarPaciente.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmDeletarMedico.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmDeletarConsulta.resources
+H:\Programação Orientada a Objetos\TerceiraEtapa\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmAtualizarCadastros.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmAtualizarCadastros.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmDeletarConsulta.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmDeletarMedico.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmDeletarPaciente.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewConsultas.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewMedicos.resources
+D:\Cotemig\POO\ClinicaPruuPruuDois\obj\Debug\ClinicaPruuPruuDois.FrmViewPacientes.resources

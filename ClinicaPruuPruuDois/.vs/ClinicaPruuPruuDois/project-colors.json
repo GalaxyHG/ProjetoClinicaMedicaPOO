@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40c6420e-fb83-4724-a0c0-6f0bf208fd41": {
+      "ProjectGuid": "40c6420e-fb83-4724-a0c0-6f0bf208fd41",
+      "DisplayName": "ClinicaPruuPruuDois",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
